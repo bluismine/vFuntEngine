@@ -1,0 +1,10 @@
+main: net.vfunt.engine.Engine
+
+name: vFuntEngine
+description: The Engine.
+api-version: 1.20
+version: '${project.version}'
+author: vFunt
+
+depend:
+  - Vault
